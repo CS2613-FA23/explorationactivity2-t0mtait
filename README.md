@@ -40,7 +40,7 @@ You can run my program as a webapp or test the API functionality via postman
 - set the postman URL to http://localhost:3000/sendemail
 - set the body to raw json format
 - input the following in the json body:
-<br>
+
 "text": "string", (replace string with encrypted text)
 <br>
 "recipient": "email" (replace email with desired recipient email address)
