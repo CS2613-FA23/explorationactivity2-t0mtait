@@ -37,8 +37,12 @@ You can run my program as a webapp or test the API functionality via postman
 
 ###### Export Encrypted Text via Email (NEW IN V2.0)
 - set the postman method to POST
-- set the postman URL to http://localhost:3000/decrypt
+- set the postman URL to http://localhost:3000/sendemail
 - set the body to raw json format
-- input the following in the json body: "text": "string" (replace string with encrypted text)
+- input the following in the json body:
+<br>
+"text": "string", (replace string with encrypted text)
+<br>
+"recipient": "email" (replace email with desired recipient email address)
 
 
