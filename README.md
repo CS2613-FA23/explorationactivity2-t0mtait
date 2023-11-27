@@ -3,7 +3,7 @@
 
 
 **Which package/library does the sample program demonstrate?**
-<br> Express.js <br> **NEW** in v2.0: AWS-SDK for AWS SES Email Service
+<br> v1.0: Express.js <br> **NEW** in v2.0: AWS-SDK for AWS SES Email Service
 
 **How does someone run your program?** <br>
 You can run my program as a webapp or test the API functionality via postman
