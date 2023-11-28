@@ -47,7 +47,7 @@ AWS has a massive suite of tools for developers, here are a few of them:
 <li>Email Services<br>
 </ul>
 
-<br>
+
 **When was it created?** <br>
 AWS was founded in 2006, and the AWS-SDK NPM Package was created in 2011
 <a href = "https://www.npmjs.com/package/aws-sdk?activeTab=versions">[Reference #2]</a>
