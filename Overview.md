@@ -26,8 +26,7 @@ AWS.config.update({
 
 
 ```
-``` const AWS = require('aws-sdk')```
-import aws-sdk for use in the app.js file
+``` const AWS = require('aws-sdk')``` <br> import aws-sdk for use in the app.js file
 
 ```
 AWS.config.update({
@@ -42,10 +41,11 @@ set your aws instance config to connect to your AWS account
 **What are the functionalities of the package/library?**
 
 AWS has a massive suite of tools for developers, here are a few of them:
-<ol>
+<ul>
 <li>VM Hosting<br>
 <li>SQL and NoSQL Databases<br>
 <li>Email Services<br>
+</li>
 
 
 **When was it created?** <br>
