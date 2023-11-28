@@ -53,7 +53,7 @@ AWS was founded in 2006, and the AWS-SDK NPM Package was created in 2011
 <a href = "https://www.npmjs.com/package/aws-sdk?activeTab=versions">[Reference #2]</a>
 
 **Why did you select this package/library?** <br>
-I've been starting to explore web development over the past couple months and after building an understanding of html and css, I've begun to use javascript to allow myself to add dynamism to websites. After gaining experience with Express, which is an extremely commonly used library for creating a simple backend for webapps, I've transitioned into learning how to use various AWS tools such as DynamoDB and, in this case, SES
+I've been starting to explore web development over the past few months and after building an understanding of html, css, and basic nodejs, I've begun to explore npm packages that allow me to build a backend for my webapps. After gaining experience with Express for creating servers, I've transitioned into learning how to use various AWS tools such as DynamoDB and, in this case, SES
 
 
 **How did learning the package/library influence your learning of the language?**<br>
