@@ -26,8 +26,8 @@ AWS.config.update({
 
 
 ```
-``` const express = require('aws-sdk')```
-import express for use in the app.js file
+``` const AWS = require('aws-sdk')```
+import aws-sdk for use in the app.js file
 
 ```
 AWS.config.update({
