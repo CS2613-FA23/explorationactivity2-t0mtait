@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Home</title>
+        <link rel="stylesheet" href="styling.css">  
+        <script src = "index.js"></script>
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>encryptor tool v1.0</h1>
+            <input type="text" class = "inp" id = "originalText" value = "test">
+            <br>
+            <button onclick = "encryptText()" id = "encryptbutton" class = "btn">Encrypt</button>
+            <br>
+            <textarea type = "text" class = "inp" id = "encryptedText" rows="8" cols="10"></textarea>
+            <br>
+            <button onclick = "decryptText()" id = "decryptbutton" class = "btn">Decrypt</button>
+            <p id = "watermark">created by @t0mtait</p>
+        </div>
+        
+    </body>
+</html>
