@@ -15,8 +15,8 @@ app.use(cors());
 
 
 AWS.config.update({
-  accessKeyId: 'AKIAVFBPTJUZPHVX3KVP',
-  secretAccessKey: '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',
+  accessKeyId: 'AKIAVFBPTJUZAH3L4LXW',
+  secretAccessKey: '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',
   region: 'us-east-2',
 });
 
