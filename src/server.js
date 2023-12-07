@@ -13,10 +13,11 @@ const port = 3000;
 app.use(bodyParser.json());
 app.use(cors());
 
-
+// removed access key and secret access key because AWS detected it was in a public repo
+// please message me for key
 AWS.config.update({
-  accessKeyId: 'AKIAVFBPTJUZAH3L4LXW',
-  secretAccessKey: '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',
+  accessKeyId: '',
+  secretAccessKey: '',
   region: 'us-east-2',
 });
 
